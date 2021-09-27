@@ -1,0 +1,8 @@
+Afghanistan,Kabul
+Armenia,Yerevan
+Azerbaijan,Baku
+India,New Delhi
+Indonesia,Jakarta
+Iran,Tehran
+Iraq,Baghdad
+Israel,Jerusalem

@@ -1,0 +1,20 @@
+{
+    "books": {
+        "book": {
+            "name": "Java in 100 days",
+            "authors": {
+                "Firstname": "Raja",
+                "Lastname": "Rao"
+            },
+            "publications": [
+                1978,
+                1979,
+                1980
+            ],
+            "genre": {
+                "fiction": "yes",
+                "story": "yes"
+            }
+        }
+    }
+}
